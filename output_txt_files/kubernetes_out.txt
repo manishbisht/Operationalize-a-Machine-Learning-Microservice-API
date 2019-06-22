@@ -1,0 +1,5 @@
+(env) Manishs-MacBook-Pro:Operationalize-a-Machine-Learning-Microservice-API manishbisht$ sh run_kubernetes.sh
+deployment.apps "development" created
+NAME                           READY     STATUS              RESTARTS   AGE
+development-64c6bcb4b4-s6hlq   0/1       ContainerCreating   0          1s
+service "development" exposed
